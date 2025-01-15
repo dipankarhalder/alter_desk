@@ -1,0 +1,9 @@
+{
+  "name": "alter_desk_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "User Module - A task management application",
+  "repository": "https://github.com/dipankarhalder/alter_desk.git",
+  "author": "dipankarhalder <dipankar.appdev@gmail.com>",
+  "license": "MIT"
+}
