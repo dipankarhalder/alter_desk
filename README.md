@@ -1,1 +1,1 @@
-# Alter Desk
+# Alter Desk - A task management application
