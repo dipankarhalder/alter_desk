@@ -1,9 +1,17 @@
 {
-  "name": "alter_desk_backend",
+  "name": "alter_desk_backend_core",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
   "description": "User Module - A task management application",
   "repository": "https://github.com/dipankarhalder/alter_desk.git",
   "author": "dipankarhalder <dipankar.appdev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-status-codes": "^2.3.0"
+  }
 }
