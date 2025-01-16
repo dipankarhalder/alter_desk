@@ -1,7 +1,11 @@
 /* all routes */
-export const all_routers = {
+const all_routers = {
   base: "/api",
   v1Base: "/v1",
 
-  route_health_check: "/health-check",
+  health_check: "/health-check",
+};
+
+module.exports = {
+  all_routers,
 };
